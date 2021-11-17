@@ -22,3 +22,5 @@ For detailed explanation on how things work, check out the [documentation](https
 [link for code pen CodePen Home
 Dark UI - Bank dashboard concept
 Håvard Brynjulfsen](https://codepen.io/havardob/pen/ExvwGBr)
+[link for icons](https://phosphoricons.com/)
+[link for fonts](https://fonts.adobe.com/my_fonts?project_id=uft3eki#web_projects-section)
